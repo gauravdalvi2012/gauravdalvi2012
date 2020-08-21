@@ -1,1 +1,1 @@
-<h2 align = "center">gaurav dalvi</align>
+<h1 style="text-align:center;">Gaurav Dalvi</h1>
