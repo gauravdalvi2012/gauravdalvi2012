@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1 style="text-align:center;">Gaurav Dalvi</h1>
+<h1 align = "right">Gaurav Dalvi</h1>
 
 </body>
 </html>
