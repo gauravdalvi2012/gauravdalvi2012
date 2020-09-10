@@ -1,5 +1,5 @@
 <html>
-<body bgcolor = "grey">
+<body style="background-color:#cfcfcf;">
 
 <h1 align = "center">Gaurav Dalvi</h1>
 
