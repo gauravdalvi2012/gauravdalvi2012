@@ -18,7 +18,7 @@
 <img src = "src/postman.svg" height = "50">&nbsp&nbsp&nbsp&nbsp
 <img src = "src/nodejs.svg" height = "50">&nbsp&nbsp&nbsp&nbsp
 <img src = "src/git.svg" height = "50">&nbsp&nbsp&nbsp&nbsp
-<!-- <img src = "src/github.svg" height = "50">&nbsp&nbsp&nbsp&nbsp -->
+<img src = "src/github.svg" height = "50">&nbsp&nbsp&nbsp&nbsp
 <img src = "src/gitlab.svg" height = "50">&nbsp&nbsp&nbsp&nbsp
 <img src = "src/firefox.svg" height = "50">
 <!-- <img src = "https://img.shields.io/badge/Android-3BD482?style=for-the-badge&logo=android&logoColor=white">
