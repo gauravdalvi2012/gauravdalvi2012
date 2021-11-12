@@ -40,7 +40,7 @@
 <a href = "https://www.instagram.com/gauravdalvi2012/"><img src = "src/instagram.svg" height = "30"></a>&nbsp&nbsp&nbsp&nbsp
 <a href = "https://www.reddit.com/user/Gaurav_Dalvi"><img src = "src/reddit.svg" height = "30"></a>&nbsp&nbsp&nbsp&nbsp
 <a href = "https://twitter.com/gauravdalvi2012"><img src = "src/twitter.svg" height = "30"></a>&nbsp&nbsp&nbsp&nbsp
-<a href = "#"><img src = "src/discord.svg" height = "30"></a>
+<a href = "https://discordapp.com/users/411162959834906624"><img src = "src/discord.svg" height = "30"></a>
 </p>
 
 <br><br>
