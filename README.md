@@ -45,7 +45,7 @@
 
 <br><br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravdalvi2012&label=Profile+Views&color=141321" alt="PROxZIMA" /> 
+  <img src="https://komarev.com/ghpvc/?username=gauravdalvi2012&label=Profile+Views&color=141321" alt="gauravdalvi2012" /> 
 </p>
 
 </body>
