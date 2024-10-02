@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Gaurav Dalvi
+# <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="28"> Hi there! I'm Gaurav Dalvi
 
 I'm a passionate software developer specializing in full-stack development. I enjoy solving complex problems and bringing creative ideas to life through code. My strengths in teamwork and collaboration enable me to work effectively in dynamic environments, delivering efficient, high-quality solutions. Motivated by my love for technology, I am always looking to expand my skills and take on challenging projects that push the boundaries of software development.
 
@@ -47,15 +47,12 @@ I'm a passionate software developer specializing in full-stack development. I en
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravdalvi2012&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdalvi2012&layout=compact&theme=radical)
-
-![Github Readme Streak](https://github-readme-streak-stats.herokuapp.com?user=gauravdalvi2012&theme=radical)
-
-</div>
+<table style="border:none;margin:0 auto">
+  <tr style="border:none;">
+    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=gauravdalvi2012&show_icons=true&theme=radical&hide_border=true" alt="My Stats"/></a></td>
+    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gauravdalvi2012&theme=radical&hide_border=true" alt="My Streak"/></a></td>
+  </tr>
+</table>
 
 ## 📫 Get in touch
 
