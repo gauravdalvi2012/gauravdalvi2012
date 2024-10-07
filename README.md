@@ -32,6 +32,7 @@ I'm a passionate software developer specializing in full-stack development. I en
 ### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 
 ### Other
