@@ -1,6 +1,6 @@
 # <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="28"> Hi there! I'm Gaurav Dalvi
 
-I am a passionate software developer who enjoys solving complex problems and turning creative ideas into reality through code. With a love for technology and a drive for innovation, I thrive on learning new skills and taking on challenging projects. My adaptability and teamwork skills enable me to excel in dynamic environments, delivering high-quality solutions across various domains.
+I'm a software developer specializing in modern frontend development with TypeScript, CSS, and Webpack. I focus on building performant, scalable interfaces with clean, maintainable code. I enjoy solving real-world problems through simple, effective solutions — always learning, always building.
 
 ## 🚀 Skills
 
