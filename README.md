@@ -50,7 +50,7 @@ I'm a software developer specializing in modern frontend development with TypeSc
 
 <table style="border:none;margin:0 auto">
   <tr style="border:none;">
-    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=gauravdalvi2012&show_icons=true&theme=radical&hide_border=true" alt="My Stats"/></a></td>
+    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-stats-extended.vercel.app/api?username=gauravdalvi2012&show_icons=true&theme=radical&hide_border=true" alt="My Stats"/></a></td>
     <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gauravdalvi2012&theme=radical&hide_border=true" alt="My Streak"/></a></td>
   </tr>
 </table>
